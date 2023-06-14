@@ -12,7 +12,7 @@ Press the Window key + R.
 Type services.msc
 Find your Service.
 
-#Uninstalling a Windows Service
+# Uninstalling a Windows Service
 If you want to uninstall your service, fire the below command.
 
 Syntax InstallUtil.exe -u + Your copied path + \your service name + .exe
