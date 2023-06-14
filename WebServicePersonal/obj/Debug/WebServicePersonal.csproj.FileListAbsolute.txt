@@ -1,0 +1,9 @@
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe.config
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.pdb
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.csprojAssemblyReference.cache
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.ProjectInstaller.resources
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.csproj.GenerateResource.cache
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.csproj.CoreCompileInputs.cache
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.exe
+C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\obj\Debug\WebServicePersonal.pdb

@@ -1,0 +1,22 @@
+﻿Installing assembly 'C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.InstallLog
+   assemblypath = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.InstallLog
+   assemblypath = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe
+Uninstalling assembly 'C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.InstallLog
+   assemblypath = C:\Users\Semi Ravitisai\Desktop\services\WebServicePersonal\WebServicePersonal\bin\Debug\WebServicePersonal.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
