@@ -6,8 +6,6 @@ Description: This windows service simply logs the current date every 5 seconds o
 Open the command prompt and fire the below command and press ENTER.
 
 1. cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
-
-Syntax
 2. InstallUtil.exe + Your copied path + \your service name + .exe
 
 **Open services by following the below steps:**
