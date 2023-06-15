@@ -1,5 +1,5 @@
 # Window-Service-Test
-Description: This windows service simply logs the current date every 5 seconds onto a txt file
+This windows service simply logs the current date every 5 seconds onto a txt file
 
 
 # Installing a Windows Service
@@ -18,3 +18,6 @@ If you want to uninstall your service, fire the below command.
 
 Syntax InstallUtil.exe -u + Your copied path + \your service name + .exe
 Our path InstallUtil.exe -u C:\Users\Faisal-Pathan\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+
+# Automating with scripts 
+Bat Scripts Start and Stop are integrated in the case of automating the running and stopping of the windows service through the Task Scheduler. Bat scripts simply calls the powershell scripts that contains the functions and condition to run and stop the service
